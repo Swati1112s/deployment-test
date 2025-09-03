@@ -16,7 +16,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-  message: "Let us learn deployment ways",
+  message: "Let us learn deployment ways & CI/CD process",
   target: "Get the job"
 }]]></ee:set-payload>
 			</ee:message>
