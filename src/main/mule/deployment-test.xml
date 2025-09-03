@@ -17,7 +17,7 @@ output application/json
 ---
 {
   message: "Let us learn deployment ways & CI/CD process",
-  target: "Get the job"
+  target: "Get the job & feel proud"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
